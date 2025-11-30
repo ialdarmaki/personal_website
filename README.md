@@ -21,7 +21,7 @@
 
 <p align="center" width="100%" border-radius="200px">
     <a href="mailto:ibrahim.m.aldarmaki@outlook.com">Email</a>
-    <a href="file/Ibrahim_Resume_Jan_2025.pdf">CV</a>
+    <a href="file/Ibrahim_Resume_2025_April-2.pdf">CV</a>
     <a href="https://github.com/i-aldarmaki">GitHub</a>
 </p>
 
@@ -30,7 +30,7 @@
 ### About:
 Hi! I am a graduate student at the School of Computer Science at Carnegie Mellon University, where I am supervised by [Prof. Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj)!. I am currently researching in the area of Machine Learning and Deep Learning.
 
-I am broadly interested in machine/deep learning, causality, and information theory. Prior to joining CMU, I was working at MBZUAI with Prof. Jin Tian and Prof. Kun Zhang on causality and machine learning. Please refer to my [CV](file/Ibrahim_Resume_Jan_2025.pdf). (Last updated: January 2025).
+I am broadly interested in machine/deep learning, causality, and information theory. Prior to joining CMU, I was working at MBZUAI with Prof. Jin Tian and Prof. Kun Zhang on causality and machine learning. Please refer to my [CV](file/Ibrahim_Resume_2025_April-2.pdf). (Last updated: January 2025).
 
 <!--I recently worked as a researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). During my time at MBZUAI, I worked/collaborated with 
 [Prof. Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/), 
